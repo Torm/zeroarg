@@ -1,0 +1,13 @@
+[package]
+name = "zeroarg"
+version = "0.1.0"
+edition = "2021"
+description = "A zero-setup commandline argument parser"
+authors = ["Torm"]
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/Torm/zeroarg"
+repository = "https://github.com/Torm/zeroarg"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
